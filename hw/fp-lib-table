@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TMP100-flex")(type "KiCad")(uri "C:/Users/JH/Documents/git-repos/TMP110-flex/assets/footprints/TMP100-flex.pretty")(options "")(descr ""))
+)
